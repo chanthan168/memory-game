@@ -1,20 +1,20 @@
 # Memory Game Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## What is the Memory Game
+This is a game which built a deck of 16 cards with 8 different pictures. The purpose of this game is used to measure the user memory.
 
 ## Instructions
+* Click on a card in deck
+* Reveal and memorize cards
+* Match pair card as much as faster
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Challenge
+* Good rating star with less time and move.
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## How to build this project
+This project is built by HTML, DOM, CSS and Javascript
+* Game load with suffle cards
+* Move counter and timer when user reveal the card
+* Cards close when are unmatched
+* Cards matched is changed new color.
+* Display a modal with rating star and timer when user win
